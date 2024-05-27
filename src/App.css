@@ -1,0 +1,11 @@
+.banner {
+  background-image: url("https://www.shutterstock.com/image-photo/italian-pizza-cooking-ingredients-on-260nw-1183461973.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.color {
+  background-color: #67d1f5;
+}
+.img {
+  height: 100px;
+}
